@@ -11,8 +11,7 @@
 -->
 
 <h2> 🤳 Connect with me:</h2>
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn">][linkedin]
-[linkedin]:https://linkedin.com/in/kevin-tousey
+<a href="https://linkedin.com/in/kevin-tousey"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn"> </a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
