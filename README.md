@@ -1,4 +1,3 @@
-# ITSupport
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/kptousey">IT Support Professional</a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
@@ -12,8 +11,8 @@
 -->
 
 <h2> 🤳 Connect with me:</h2>
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn">](https://linkedin.com/in/kevin-tousey)
-
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn">][linkedin]
+[linkedin]:https://linkedin.com/in/kevin-tousey
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
