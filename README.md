@@ -5,13 +5,11 @@
 - <b>HomeLab Setup</b>
   - [Setting up a virtualized homelab](https://github.com/KPTousey/ITSupport/blob/main/lab%20setup.pdf)
 <p>Create a domain controller, add active directory, then create a user account, login to the client, convert it to a domain managed machine, then log into the domain user account.</p>
-<!--<h2>📺 Popular YouTube Videos</h2> -->
-<!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
--->
+
 <h2>🌱 Certifications:</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FIW2WAGXECRS)
+  
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/kevin-tousey"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn"> </a>
 <!--
