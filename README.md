@@ -9,7 +9,8 @@
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 -->
-
+<h2>🌱 Certifications:</h2>
+<p>Google IT Support Professional</p>
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/kevin-tousey"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn"> </a>
 <!--
