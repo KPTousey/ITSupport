@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>HomeLab Setup</b>
-  - [Setting up a virtualized homelab](https://github.com/users/KPTousey/projects/2)
+  - [Setting up a virtualized homelab](https://github.com/KPTousey/ITSupport/blob/main/lab%20setup.pdf)
 <p>Create a domain controller, add active directory, then create a user account, login to the client, convert it to a domain managed machine, then log into the domain user account.</p>
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
