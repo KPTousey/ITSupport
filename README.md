@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/kptousey">IT Support Professional</a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
-<!--
+
 - <b>HomeLab Setup</b>
   - [Setting up a virtualized homelab](https://github.com/users/KPTousey/projects/2)
 <p>Create a domain controller, add active directory, then create a user account, login to the client, convert it to a domain managed machine, then log into the domain user account.</p>
