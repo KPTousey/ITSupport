@@ -10,6 +10,7 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 -->
 <h2>🌱 Certifications:</h2>
+
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FIW2WAGXECRS)
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/kevin-tousey"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" alt="LinkedIn"> </a>
