@@ -7,7 +7,7 @@
 <p>Create a domain controller, add active directory, then create a user account, login to the client, convert it to a domain managed machine, then log into the domain user account.</p>
 
 - <b>Add Virtual Hard Drive</b>
- - [Creating a Virtual Drive inside the Windows 11 VM](https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf)
+  - [Creating a Virtual Drive inside the Windows 11 VM](https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf)
 <p>Setup a VDI in VirtualBox then format the volume in diskmanagement.</p>
 
 <h2>🌱 Certifications:</h2>
