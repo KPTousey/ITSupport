@@ -8,8 +8,12 @@
 <p>***Downgraded VirtualBox to 7.0.14 and reinstalled because there was a hypervisor compatibility problem with Hyper-V and Windows 11</p>
 
 - <b>Add Virtual Hard Drive</b>
-  - [Creating a Virtual Drive inside the Windows 11 VM](https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf)
+  - [Windows 11 Networking and Troubleshooting](https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf)
 <p>Setup a VDI in VirtualBox then format the volume in diskmanagement.</p>
+
+- <b>Troubleshooting Windows 11 Networking Issues</b>
+  - [Creating a Virtual Drive inside the Windows 11 VM]([https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf](https://github.com/KPTousey/ITSupport/blob/main/windows%2011%20networking%20and%20troubleshooting.pdf)
+<p>Broke, diagnosed, and repaired common Windows 11 Networking issues.</p>
 
 <h2>🌱 Certifications:</h2>
 
