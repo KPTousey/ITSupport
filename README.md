@@ -5,7 +5,7 @@
 - <b>HomeLab Setup</b>
   - [Setting up a virtualized homelab](https://github.com/KPTousey/ITSupport/blob/main/lab%20setup.pdf)
 <p>Create a domain controller, add active directory, then create a user account, login to the client, convert it to a domain managed machine, then log into the domain user account.</p>
-<p>***Downgraded VirtualBox to 7.0.14 and reinstalled because there was a hypervisor compatibility problem with Hyper-V and Windows 11</p>
+<p>***Downgraded VirtualBox to 7.0.14 and reinstalled because there was a hypervisor compatibility problem with Hyper-V and VirtualBox in Windows 11</p>
 
 - <b>Add Virtual Hard Drive</b>
   - [Creating a Virtual Drive inside the Windows 11 VM](https://github.com/KPTousey/ITSupport/blob/main/add%20virtual%20drive.pdf)
